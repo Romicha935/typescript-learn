@@ -1,4 +1,4 @@
-function greet (name:string) {
+function greet (name:string): string {
     return `hello, $(name)`
 }
-console.log(greet("Typescript"));
+console.log(greet("Romicha"));
