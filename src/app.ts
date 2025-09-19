@@ -18,4 +18,4 @@ console.log(scores2[1]);
 
 
 let student: [string,number,boolean] = ["Riya", 20, true]
-console.log(student[1]);
+console.log(student[0]);
